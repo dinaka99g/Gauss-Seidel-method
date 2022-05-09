@@ -12,10 +12,10 @@ loaded from the keyboard or from a file. Before performing iterations, the
 program should check whether the system matrix is diagonally dominant, and 
 print the information on the screen.
 
-If the system matrix is not diagonally dominant, stop program 
-execution.
-In case the system matrix is diagonally dominant, start performing 
-iterations
+    -If the system matrix is not diagonally dominant, stop program execution.
+    -In case the system matrix is diagonally dominant, start performing iterations.
+    
+
 
 
 
